@@ -1,0 +1,33 @@
+year,Race_Ethnicity,county_population
+2016,White,855894
+2017,White,860662
+2018,White,860981
+2019,White,863985
+2016,Black/African American,156239
+2017,Black/African American,166019
+2018,Black/African American,167129
+2019,Black/African American,163397
+2016,American Indian or Alaskan Native,7682
+2017,American Indian or Alaskan Native,7788
+2018,American Indian or Alaskan Native,7848
+2019,American Indian or Alaskan Native,5668
+2016,Asian/Pacific Islander,85606
+2017,Asian/Pacific Islander,90174
+2018,Asian/Pacific Islander,89517
+2019,Asian/Pacific Islander,92215
+2016,Asian/Pacific Islander,438
+2017,Asian/Pacific Islander,265
+2018,Asian/Pacific Islander,235
+2019,Asian/Pacific Islander,635
+2016,Other or Unknown,1738
+2017,Other or Unknown,2273
+2018,Other or Unknown,4475
+2019,Other or Unknown,4590
+2016,Other or Unknown,40297
+2017,Other or Unknown,37731
+2018,Other or Unknown,41432
+2019,Other or Unknown,46880
+2016,Hispanic or Latino,84589
+2017,Hispanic or Latino,87112
+2018,Hispanic or Latino,87811
+2019,Hispanic or Latino,88473
