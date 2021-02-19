@@ -1,5 +1,5 @@
 # SNAP-Penetration-for-Hennepin-County
->[Xinbo Wang](https://github.com/xinbo-hubert-wang), [Farhad Mughal](https://github.com/farhadmughal), Mark Chen, Weizhong Yao
+>[Xinbo Wang](https://github.com/xinbo-hubert-wang), [Farhad Mughal](https://github.com/farhadmughal), Mark Chen, [Weizhong Yao](https://github.com/WeizhongYao)
 
 
 Please See the [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzRmNTdjYWQtMDE4ZS00ZDYxLWFmYmMtNDZiYzZlMmNjMDdjIiwidCI6Ijc3YjRmOGFkLWY2MmEtNGUzYS05OWFmLTAwM2RhNzYwMDQ3YyIsImMiOjF9&pageName=ReportSection).
